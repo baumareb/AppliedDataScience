@@ -1,0 +1,1 @@
+Hier haben wir eine leichtere Version der Früchteerkennung mit viel weniger Daten durchgeführt.
